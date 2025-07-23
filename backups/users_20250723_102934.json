@@ -1,0 +1,13 @@
+{
+  "admin": {
+    "username": "admin",
+    "password": "240be518fabd2724ddb6f04eeb1da5967448d7e831c08c8fa822809f74c720a9",
+    "role": "admin",
+    "first_name": "ผู้ดูแล",
+    "last_name": "ระบบ",
+    "email": "admin@university.ac.th",
+    "phone": "0800000000",
+    "citizen_id": "1234567890123",
+    "created_at": "2025-07-23T10:26:31.351115"
+  }
+}
