@@ -1,0 +1,24 @@
+[
+  {
+    "id": "a050fec2-cff9-4d1d-9955-81ae9d9143db",
+    "sender_username": "d01",
+    "subject": "คำขอรีเซ็ตรหัสผ่าน - d01",
+    "message": "ชื่อผู้ใช้: d01\nชื่อ: สส\nสกุล: สส\nเลขบัตรประจำตัวประชาชน: 1418000027940\nประเภทข้อความ: ลืมรหัสผ่าน\nข้อความ: ผู้ใช้ลืมรหัสผ่าน",
+    "message_type": "password_reset",
+    "timestamp": "2025-08-04T14:14:24.442843",
+    "is_read": true,
+    "reply": null,
+    "reply_timestamp": null
+  },
+  {
+    "id": "155f8602-e2e6-485b-9b7c-db99324acbb9",
+    "sender_username": "d01",
+    "subject": "คำขอรีเซ็ตรหัสผ่าน - d01",
+    "message": "ชื่อผู้ใช้: d01\nชื่อ: สส\nสกุล: สส\nเลขบัตรประจำตัวประชาชน: 1418000027940\nประเภทข้อความ: ลืมรหัสผ่าน\nข้อความ: ผู้ใช้ลืมรหัสผ่าน",
+    "message_type": "password_reset",
+    "timestamp": "2025-08-04T14:14:55.032974",
+    "is_read": true,
+    "reply": null,
+    "reply_timestamp": null
+  }
+]

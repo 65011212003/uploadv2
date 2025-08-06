@@ -1,3 +1,41 @@
 2025-07-23T10:30:02.223551 - Profile updated for user123: school_name: awscholl -> awscholl123
 2025-07-23T10:37:53.754567 - Profile updated for user123: parent_phone: 0990990991 -> 0990990992
 2025-07-23T10:53:40.251442 - Profile updated for user123: school_name: awscholl123 -> awscholl
+2025-07-23T13:31:19.328781 - Profile updated for Dolsun: program: None -> วิทยาการคอมพิวเตอร์; address:  -> 90/12313123shajdkashdjkahsjd
+2025-07-23T13:54:27.936919 - Profile updated for Dolsun: phone: 0619702159 -> 0619702158
+2025-07-23T13:56:31.830169 - Profile updated for Dolsun: gpax: 3.8 -> 3.85
+2025-07-23T13:56:56.699375 - Profile updated for Dolsun: gpax: 3.85 -> 3.8
+2025-07-23T14:02:58.298481 - Profile updated for Dolsun: address: 90/12313123shajdkashdjkahsjd -> 90/12313123 ฟหกสฟหสาก่ฟาก่่ฟห่กสฟาสกหาฟ่กสาฟห่สาก่
+2025-07-23T14:49:11.465387 - Profile updated for Dolsun: parent_phone: 0946023677 -> 0946023699
+2025-07-24T09:04:41.920393 - Profile updated for Dolsun: address: 90/12313123 ฟหกสฟหสาก่ฟาก่่ฟห่กสฟาสกหาฟ่กสาฟห่สาก่ -> 90 หมู่ 7 ตำบล ทุ่งฝน อำเภอ ทุ่งฝน จังหวัด อุดรธานี
+2025-07-24T09:18:22.624583 - Profile updated for Dolsun: province: None -> อุดรธานี
+2025-07-24T09:34:07.769351 - Profile updated for Dolsun: title: นาย -> นางสาว
+2025-07-24T09:34:24.437724 - Profile updated for Dolsun: title: นางสาว -> นาย; phone: 0619702158 -> 0619702159
+2025-07-24T14:17:05.150636 - Profile updated for Dolsun: gpax: 3.8 -> 3.85; parent_phone: 0946023699 -> 0946023677
+2025-07-29T11:12:01.382118 - Profile updated for Dolsun: title: นาย -> นาง; phone: 0619702159 -> 0619702158
+2025-07-29T11:12:33.750562 - Profile updated for Dolsun: phone: 0619702158 -> 0619702159; gpax: 3.85 -> 3.0
+2025-07-29T11:12:43.391783 - Profile updated for Dolsun: gpax: 3.0 -> 3.5
+2025-07-29T11:12:46.474079 - Profile updated for Dolsun: parent_phone: 0946023677 -> 09460236
+2025-07-29T11:12:54.258337 - Profile updated for Dolsun: parent_phone: 09460236 -> 0946023999
+2025-07-29T13:24:52.150787 - Profile updated for Dolsun: gpax: 3.5 -> 3.7
+2025-07-29T13:26:53.930091 - Profile updated for Dolsun: parent_phone: 0946023999 -> 094602399
+2025-07-29T13:26:59.506882 - Profile updated for Dolsun: parent_phone: 094602399 -> 0946023999
+2025-07-29T13:27:37.870829 - Profile updated for Dolsun: parent_phone: 0946023999 -> 0946023900
+2025-07-29T14:58:40.197428 - Profile updated for Dolsun: gpax: 3.7 -> 3.9; graduation_year: 2020 -> 2021
+2025-07-30T12:05:48.619605 - Profile updated for user123: title: None -> นาย; first_name: amy -> จังปอง; birth_date: None -> 2000-01-01; school: None -> ; province: None -> กรุงเทพมหานคร; gpax: 2.94 -> 2.94
+2025-07-31T09:07:12.286104 - Profile updated for Dolsun: school_name: บ้านดุง -> บ้านดุงวิทยา
+2025-07-31T09:47:49.301590 - Profile updated for user123: school_name: awscholl -> aaaaaaaaaaaa; gpax: 2.94 -> 2.94; updated_at: 2025-07-30T12:05:48.613283 -> 2025-07-31T09:47:49.293465; updated_by_admin: None -> student_1231231312311
+2025-07-31T09:48:08.041792 - Profile updated for Dolsun: school_name: บ้านดุงวิทยา -> บ้านดุง; updated_at: 2025-07-31T09:07:12.279046 -> 2025-07-31T09:48:08.031496; updated_by_admin: None -> student_1231231312311
+2025-07-31T10:10:15.094095 - Profile updated for user123: school_name: aaaaaaaaaaaa -> asdadasd; updated_at: 2025-07-31T09:47:49.294050 -> 2025-07-31T10:10:15.086385
+2025-07-31T10:22:46.646123 - Profile updated for Dolsun: major:  -> ิวิทย์-คณิต
+2025-07-31T10:32:36.128292 - Profile updated for Dolsun: major: ิวิทย์-คณิต -> วิทย์-คณิต
+2025-07-31T10:38:01.753405 - Profile updated for user123: major:  -> asda; updated_at: 2025-07-31T10:10:15.087049 -> 2025-07-31T10:38:01.745315
+2025-07-31T11:14:34.963308 - Profile updated for d04: updated_at: None -> 2025-07-31T11:14:34.947327; updated_by_admin: None -> d04
+2025-07-31T11:15:30.568423 - Profile updated for student_1231231312311: citizen_id: 1231231312311 -> 1999999999999; phone: 1231313123 -> 0988887878; gpax: 2.0 -> 2.0; updated_at: None -> 2025-07-31T11:15:30.553767; updated_by_admin: None -> d04
+2025-07-31T15:31:33.358934 - Profile updated for user123: citizen_id: 5451001055206 -> 5451001055207; major: asda -> asdaหฟกหกฟ; updated_at: 2025-07-31T10:38:01.745824 -> 2025-07-31T15:31:33.348303; updated_by_admin: student_1231231312311 -> d09
+2025-07-31T15:44:53.773105 - Profile updated for Dolsun: gpax: 3.9 -> 4.0
+2025-07-31T15:53:09.711487 - Profile updated for user123: updated_at: 2025-07-31T15:31:33.350033 -> 2025-07-31T15:53:09.703888
+2025-07-31T15:53:21.144307 - Profile updated for user123: gpax: 2.94 -> 2.89; updated_at: 2025-07-31T15:53:09.704523 -> 2025-07-31T15:53:21.136106
+2025-08-04T09:28:29.731612 - Profile updated for user123: last_name: winehouse -> ฉั่น; school_name: asdadasd -> ppap; updated_at: 2025-07-31T15:53:21.136865 -> 2025-08-04T09:28:29.719403
+2025-08-04T13:33:09.204862 - Profile updated for d01: updated_at: None -> 2025-08-04T13:33:09.180013; updated_by_admin: None -> d09
+2025-08-04T15:33:15.420116 - Profile updated for Dolsun: graduation_year: 2021 -> 2020; updated_at: 2025-07-31T15:44:53.764269 -> 2025-08-04T15:33:15.412495; updated_by_admin: student_1231231312311 -> d09
